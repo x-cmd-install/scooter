@@ -1,11 +1,13 @@
 about:
-  description: Interactive find-and-replace in the terminal
+  description:
+  |
+    Interactive find-and-replace in the terminal
   license: MIT
   homepage: 
   head: bd31ab6
   archived: false
   latestVersion: v0.9.1
-  collectedAt: 2026-09-03T05:12:17Z
+  collectedAt: 2026-09-03T22:37:51Z
 timeline:
   created: 2024-07-22
   lastCommit: 2026-08-31
@@ -23,7 +25,7 @@ language:
   Nushell: 25540
   Nix: 2288
   Shell: 221
-totalLine: 1154790
+totalBytes: 1154790
 recent:
   last30d:
     since: 2026-08-04
