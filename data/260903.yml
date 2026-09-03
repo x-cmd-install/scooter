@@ -1,0 +1,59 @@
+about:
+  description: Interactive find-and-replace in the terminal
+  license: MIT
+  homepage: 
+  head: bd31ab6
+  archived: false
+  latestVersion: v0.9.1
+  collectedAt: 2026-09-03T05:12:17Z
+timeline:
+  created: 2024-07-22
+  lastCommit: 2026-08-31
+  lastRelease: 2026-04-23
+popularity:
+  star: 1291
+  watcher: 2
+  fork: 18
+  release: 22
+  contributor: 10
+  pullRequest: 27
+  issue: 74
+language:
+  Rust: 1126741
+  Nushell: 25540
+  Nix: 2288
+  Shell: 221
+totalLine: 1154790
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 4
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 7
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 19
+    openPR: 0
+    closedIssue: 0
+    openIssue: 3
+    commit: 23
+  last180d:
+    since: 2026-03-07
+    release: 1
+    mergedPR: 53
+    openPR: 0
+    closedIssue: 6
+    openIssue: 10
+    commit: 59
+  last360d:
+    since: 2025-09-08
+    release: 8
+    mergedPR: 163
+    openPR: 1
+    closedIssue: 22
+    openIssue: 15
+    commit: 343
