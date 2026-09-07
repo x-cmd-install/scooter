@@ -5,7 +5,7 @@ about:
   head: cde8913
   archived: false
   latestVersion: "v0.9.1"
-  collectedAt: 2026-09-07T05:13:48Z
+  collectedAt: 2026-09-07T19:09:59Z
 timeline:
   created: 2024-07-22
   lastCommit: 2026-09-05
@@ -82,7 +82,7 @@ total:
   commit: 1260
 ---
 path: /home/runner/.x-repo/github.com/thomasschafer/scooter
-collectedAt: 2026-09-07T05:13:50Z
+collectedAt: 2026-09-07T19:10:02Z
 loc:
   Rust:
     code: 28611
@@ -123,7 +123,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:13:51+00:00
+  collectedAt: 2026-09-07T19:10:02+00:00
   platform:
     darwin/arm64:
       name:  scooter-v0.9.1-aarch64-apple-darwin.tar.gz
