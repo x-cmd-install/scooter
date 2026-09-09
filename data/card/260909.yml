@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.9.1"
   latestRelease: "v0.9.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:15:31Z
+  collectedAt: 2026-09-09T19:38:27Z
 timeline:
   created: 2024-07-22
   lastCommit: 2026-09-05
@@ -36,7 +36,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 1
-    commit: 3
+    commit: 0
   last60d:
     since: 2026-07-11
     release: 0
@@ -44,7 +44,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 3
-    commit: 11
+    commit: 0
   last90d:
     since: 2026-06-11
     release: 0
@@ -52,7 +52,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 3
-    commit: 24
+    commit: 0
   last180d:
     since: 2026-03-13
     release: 1
@@ -60,7 +60,7 @@ recent:
     openPR: 0
     closedIssue: 6
     openIssue: 10
-    commit: 58
+    commit: 0
   last360d:
     since: 2025-09-14
     release: 8
@@ -68,7 +68,7 @@ recent:
     openPR: 1
     closedIssue: 21
     openIssue: 13
-    commit: 335
+    commit: 0
   last720d:
     since: 2024-09-19
     release: 22
@@ -86,7 +86,7 @@ total:
   commit: 1260
 ---
 path: /home/runner/.x-repo/github.com/thomasschafer/scooter
-collectedAt: 2026-09-09T05:15:33Z
+collectedAt: 2026-09-09T19:38:32Z
 loc:
   Rust:
     code: 28611
