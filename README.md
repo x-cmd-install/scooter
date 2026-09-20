@@ -4,7 +4,7 @@
 
 Interactive find-and-replace in the terminal
 
-![scooter](https://repo.x-cmd.io/scooter.svg)
+[![x-cmd/install — scooter Code Quality Monitoring Repo Card](https://repo.x-cmd.io/scooter.svg)](https://x-cmd.com/install/scooter)
 
 ## Install
 
@@ -32,27 +32,27 @@ Total: **28,846** lines of code across **48** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.1` (2026-04-23)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 1,295 · **Forks**: 18 · **Open issues**: 74 · **Contributors**: 10
+- **Stars**: 1,296 · **Forks**: 18 · **Open issues**: 74 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 343 · **Open PRs**: 1 · **Closed issues**: 57 · **Open issues**: 17 · **Commits**: 1262
+- **Releases**: 22 · **Merged PRs**: 344 · **Open PRs**: 1 · **Closed issues**: 57 · **Open issues**: 17 · **Commits**: 1263
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 4 | 0 | 0 | 1 | 4 |
-| last60d | 2026-07-20 | 0 | 12 | 0 | 0 | 2 | 12 |
-| 90d | 2026-06-20 | 0 | 17 | 0 | 0 | 3 | 21 |
-| last180d | 2026-03-22 | 1 | 51 | 0 | 6 | 10 | 59 |
-| 360d | 2025-09-23 | 8 | 157 | 1 | 21 | 13 | 330 |
-| last720d | 2024-09-28 | 22 | 343 | 1 | 57 | 17 | 1236 |
+| 30d | 2026-08-21 | 0 | 5 | 0 | 0 | 1 | 5 |
+| last60d | 2026-07-22 | 0 | 13 | 0 | 0 | 2 | 11 |
+| 90d | 2026-06-22 | 0 | 18 | 0 | 0 | 3 | 16 |
+| last180d | 2026-03-24 | 1 | 51 | 0 | 6 | 10 | 58 |
+| 360d | 2025-09-25 | 8 | 158 | 1 | 21 | 13 | 305 |
+| last720d | 2024-09-30 | 22 | 344 | 1 | 57 | 17 | 1237 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for scooter lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:35:31Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:32:51Z._
