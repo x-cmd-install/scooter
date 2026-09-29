@@ -14,12 +14,12 @@ x install scooter
 
 ## Code insight
 
-Total: **28,846** lines of code across **48** files in the top 5 languages.
+Total: **31,252** lines of code across **50** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 28,611 | 741 | 3,262 | 35 |
-| Toml | 145 | 3 | 16 | 6 |
+| Rust | 31,013 | 801 | 3,456 | 37 |
+| Toml | 149 | 3 | 16 | 6 |
 | Nix | 80 | 0 | 10 | 1 |
 | Json | 10 | 0 | 0 | 2 |
 | Markdown | 0 | 412 | 241 | 4 |
@@ -32,7 +32,7 @@ Total: **28,846** lines of code across **48** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.1` (2026-04-23)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-28
 - **Assets in release**: 15
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **28,846** lines of code across **48** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 344 · **Open PRs**: 3 · **Closed issues**: 57 · **Open issues**: 17 · **Commits**: 1263
+- **Releases**: 22 · **Merged PRs**: 346 · **Open PRs**: 1 · **Closed issues**: 58 · **Open issues**: 16 · **Commits**: 1265
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 4 | 2 | 0 | 0 | 4 |
-| last60d | 2026-07-30 | 0 | 9 | 2 | 0 | 1 | 11 |
-| 90d | 2026-06-30 | 0 | 15 | 2 | 0 | 3 | 15 |
-| last180d | 2026-04-01 | 1 | 49 | 2 | 6 | 10 | 57 |
-| 360d | 2025-10-03 | 8 | 152 | 3 | 20 | 13 | 293 |
-| last720d | 2024-10-08 | 22 | 344 | 3 | 57 | 17 | 1236 |
+| 30d | 2026-08-30 | 0 | 6 | 0 | 0 | 0 | 6 |
+| last60d | 2026-07-31 | 0 | 11 | 0 | 0 | 1 | 13 |
+| 90d | 2026-07-01 | 0 | 17 | 0 | 1 | 2 | 17 |
+| last180d | 2026-04-02 | 1 | 51 | 0 | 7 | 9 | 59 |
+| 360d | 2025-10-04 | 8 | 154 | 1 | 21 | 12 | 295 |
+| last720d | 2024-10-09 | 22 | 346 | 1 | 58 | 16 | 1238 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for scooter lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:49:24Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:15:23Z._
