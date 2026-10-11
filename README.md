@@ -14,11 +14,11 @@ x install scooter
 
 ## Code insight
 
-Total: **31,252** lines of code across **50** files in the top 5 languages.
+Total: **31,680** lines of code across **50** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 31,013 | 801 | 3,456 | 37 |
+| Rust | 31,441 | 819 | 3,498 | 37 |
 | Toml | 149 | 3 | 16 | 6 |
 | Nix | 80 | 0 | 10 | 1 |
 | Json | 10 | 0 | 0 | 2 |
@@ -31,8 +31,8 @@ Total: **31,252** lines of code across **50** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.9.1` (2026-04-23)
-- **Last commit**: 2026-09-28
+- **Latest**: `v0.10.0` (2026-10-11)
+- **Last commit**: 2026-10-11
 - **Assets in release**: 15
 
 ## Popularity
@@ -41,38 +41,38 @@ Total: **31,252** lines of code across **50** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 346 · **Open PRs**: 1 · **Closed issues**: 58 · **Open issues**: 16 · **Commits**: 1265
+- **Releases**: 23 · **Merged PRs**: 349 · **Open PRs**: 3 · **Closed issues**: 61 · **Open issues**: 13 · **Commits**: 1268
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 5 | 0 | 0 | 0 | 5 |
-| last60d | 2026-08-11 | 0 | 8 | 0 | 0 | 1 | 8 |
-| 90d | 2026-07-12 | 0 | 15 | 0 | 1 | 2 | 16 |
-| last180d | 2026-04-13 | 1 | 44 | 0 | 7 | 9 | 53 |
-| 360d | 2025-10-15 | 5 | 141 | 1 | 18 | 12 | 281 |
-| last720d | 2024-10-20 | 22 | 346 | 1 | 58 | 16 | 1232 |
+| 30d | 2026-09-11 | 1 | 8 | 2 | 0 | 0 | 6 |
+| last60d | 2026-08-12 | 1 | 11 | 2 | 0 | 1 | 10 |
+| 90d | 2026-07-13 | 1 | 18 | 2 | 1 | 1 | 18 |
+| last180d | 2026-04-14 | 2 | 47 | 2 | 9 | 7 | 48 |
+| 360d | 2025-10-16 | 6 | 144 | 3 | 21 | 9 | 254 |
+| last720d | 2024-10-21 | 23 | 349 | 3 | 61 | 13 | 1235 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [scooter-v0.9.1-aarch64-apple-darwin.tar.gz](https://github.com/thomasschafer/scooter/releases/download/v0.9.1/scooter-v0.9.1-aarch64-apple-darwin.tar.gz) | 3.5 MiB | `native/darwin/arm64` |
-| [scooter-v0.9.1-aarch64-apple-darwin.tar.gz.sha256](https://github.com/thomasschafer/scooter/releases/download/v0.9.1/scooter-v0.9.1-aarch64-apple-darwin.tar.gz.sha256) | 109 B | `native/darwin/arm64` |
-| [scooter-v0.9.1-aarch64-apple-darwin.tar.gz.sha512](https://github.com/thomasschafer/scooter/releases/download/v0.9.1/scooter-v0.9.1-aarch64-apple-darwin.tar.gz.sha512) | 173 B | `native/darwin/arm64` |
-| [scooter-v0.9.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/thomasschafer/scooter/releases/download/v0.9.1/scooter-v0.9.1-aarch64-unknown-linux-musl.tar.gz) | 3.6 MiB | `native/linux/arm64/musl` |
-| [scooter-v0.9.1-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/thomasschafer/scooter/releases/download/v0.9.1/scooter-v0.9.1-aarch64-unknown-linux-musl.tar.gz.sha256) | 115 B | `native/linux/arm64/musl` |
-| [scooter-v0.9.1-aarch64-unknown-linux-musl.tar.gz.sha512](https://github.com/thomasschafer/scooter/releases/download/v0.9.1/scooter-v0.9.1-aarch64-unknown-linux-musl.tar.gz.sha512) | 179 B | `native/linux/arm64/musl` |
-| [scooter-v0.9.1-x86_64-apple-darwin.tar.gz](https://github.com/thomasschafer/scooter/releases/download/v0.9.1/scooter-v0.9.1-x86_64-apple-darwin.tar.gz) | 3.6 MiB | `native/darwin/x64` |
-| [scooter-v0.9.1-x86_64-apple-darwin.tar.gz.sha256](https://github.com/thomasschafer/scooter/releases/download/v0.9.1/scooter-v0.9.1-x86_64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/x64` |
-| [scooter-v0.9.1-x86_64-apple-darwin.tar.gz.sha512](https://github.com/thomasschafer/scooter/releases/download/v0.9.1/scooter-v0.9.1-x86_64-apple-darwin.tar.gz.sha512) | 172 B | `native/darwin/x64` |
-| [scooter-v0.9.1-x86_64-pc-windows-msvc.zip](https://github.com/thomasschafer/scooter/releases/download/v0.9.1/scooter-v0.9.1-x86_64-pc-windows-msvc.zip) | 3.4 MiB | `native/win/x64` |
-| [scooter-v0.9.1-x86_64-pc-windows-msvc.zip.sha256](https://github.com/thomasschafer/scooter/releases/download/v0.9.1/scooter-v0.9.1-x86_64-pc-windows-msvc.zip.sha256) | 109 B | `native/win/x64` |
-| [scooter-v0.9.1-x86_64-pc-windows-msvc.zip.sha512](https://github.com/thomasschafer/scooter/releases/download/v0.9.1/scooter-v0.9.1-x86_64-pc-windows-msvc.zip.sha512) | 173 B | `native/win/x64` |
-| [scooter-v0.9.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/thomasschafer/scooter/releases/download/v0.9.1/scooter-v0.9.1-x86_64-unknown-linux-musl.tar.gz) | 3.8 MiB | `native/linux/x64/musl` |
-| [scooter-v0.9.1-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/thomasschafer/scooter/releases/download/v0.9.1/scooter-v0.9.1-x86_64-unknown-linux-musl.tar.gz.sha256) | 114 B | `native/linux/x64/musl` |
-| [scooter-v0.9.1-x86_64-unknown-linux-musl.tar.gz.sha512](https://github.com/thomasschafer/scooter/releases/download/v0.9.1/scooter-v0.9.1-x86_64-unknown-linux-musl.tar.gz.sha512) | 178 B | `native/linux/x64/musl` |
+| [scooter-v0.10.0-aarch64-apple-darwin.tar.gz](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-aarch64-apple-darwin.tar.gz) | 3.6 MiB | `native/darwin/arm64` |
+| [scooter-v0.10.0-aarch64-apple-darwin.tar.gz.sha256](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-aarch64-apple-darwin.tar.gz.sha256) | 110 B | `native/darwin/arm64` |
+| [scooter-v0.10.0-aarch64-apple-darwin.tar.gz.sha512](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-aarch64-apple-darwin.tar.gz.sha512) | 174 B | `native/darwin/arm64` |
+| [scooter-v0.10.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-aarch64-unknown-linux-musl.tar.gz) | 3.8 MiB | `native/linux/arm64/musl` |
+| [scooter-v0.10.0-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-aarch64-unknown-linux-musl.tar.gz.sha256) | 116 B | `native/linux/arm64/musl` |
+| [scooter-v0.10.0-aarch64-unknown-linux-musl.tar.gz.sha512](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-aarch64-unknown-linux-musl.tar.gz.sha512) | 180 B | `native/linux/arm64/musl` |
+| [scooter-v0.10.0-x86_64-apple-darwin.tar.gz](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-x86_64-apple-darwin.tar.gz) | 3.8 MiB | `native/darwin/x64` |
+| [scooter-v0.10.0-x86_64-apple-darwin.tar.gz.sha256](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-x86_64-apple-darwin.tar.gz.sha256) | 109 B | `native/darwin/x64` |
+| [scooter-v0.10.0-x86_64-apple-darwin.tar.gz.sha512](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-x86_64-apple-darwin.tar.gz.sha512) | 173 B | `native/darwin/x64` |
+| [scooter-v0.10.0-x86_64-pc-windows-msvc.zip](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-x86_64-pc-windows-msvc.zip) | 3.5 MiB | `native/win/x64` |
+| [scooter-v0.10.0-x86_64-pc-windows-msvc.zip.sha256](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-x86_64-pc-windows-msvc.zip.sha256) | 110 B | `native/win/x64` |
+| [scooter-v0.10.0-x86_64-pc-windows-msvc.zip.sha512](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-x86_64-pc-windows-msvc.zip.sha512) | 174 B | `native/win/x64` |
+| [scooter-v0.10.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-x86_64-unknown-linux-musl.tar.gz) | 4.0 MiB | `native/linux/x64/musl` |
+| [scooter-v0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256) | 115 B | `native/linux/x64/musl` |
+| [scooter-v0.10.0-x86_64-unknown-linux-musl.tar.gz.sha512](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-x86_64-unknown-linux-musl.tar.gz.sha512) | 179 B | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -83,4 +83,4 @@ Install metadata for scooter lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:20:27Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:13:36Z._
