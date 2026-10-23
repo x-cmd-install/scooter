@@ -47,12 +47,12 @@ Total: **31,680** lines of code across **50** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 9 | 0 | 0 | 0 | 9 |
-| last60d | 2026-08-23 | 1 | 14 | 0 | 1 | 0 | 14 |
-| 90d | 2026-07-24 | 1 | 22 | 0 | 2 | 0 | 20 |
-| last180d | 2026-04-25 | 1 | 43 | 0 | 11 | 5 | 45 |
-| 360d | 2025-10-27 | 6 | 139 | 1 | 23 | 7 | 235 |
-| last720d | 2024-11-01 | 23 | 353 | 1 | 63 | 11 | 1238 |
+| 30d | 2026-09-23 | 1 | 9 | 0 | 0 | 0 | 9 |
+| last60d | 2026-08-24 | 1 | 14 | 0 | 0 | 0 | 14 |
+| 90d | 2026-07-25 | 1 | 21 | 0 | 2 | 0 | 20 |
+| last180d | 2026-04-26 | 1 | 43 | 0 | 11 | 5 | 45 |
+| 360d | 2025-10-28 | 6 | 139 | 1 | 22 | 7 | 235 |
+| last720d | 2024-11-02 | 23 | 353 | 1 | 63 | 11 | 1238 |
 
 ## Release assets
 
@@ -74,6 +74,16 @@ Total: **31,680** lines of code across **50** files in the top 5 languages.
 | [scooter-v0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-x86_64-unknown-linux-musl.tar.gz.sha256) | 115 B | `native/linux/x64/musl` |
 | [scooter-v0.10.0-x86_64-unknown-linux-musl.tar.gz.sha512](https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-x86_64-unknown-linux-musl.tar.gz.sha512) | 179 B | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **22** distros on [repology.org](https://repology.org/project/scooter). **8** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.10.0` | ✅ latest |
+| Nix unstable | `0.10.0` | ✅ latest |
+| Alpine edge | `0.9.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for scooter lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `scooter` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -83,4 +93,4 @@ Install metadata for scooter lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:15:01Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:19:56Z._
