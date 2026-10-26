@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3780484,
       "digest": "sha256:8903344ce77558b9cd1f75a4971f525df1585b1e53916fba015010f729ec1a87",
-      "download_count": 90,
+      "download_count": 92,
       "created_at": "2026-10-11T03:31:20Z",
       "updated_at": "2026-10-11T03:31:21Z",
       "browser_download_url": "https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3970763,
       "digest": "sha256:0f929cde5c1896762fed4a6f5495af2398a52f23d7c6a7f631964400aa6a776d",
-      "download_count": 67,
+      "download_count": 71,
       "created_at": "2026-10-11T03:31:24Z",
       "updated_at": "2026-10-11T03:31:24Z",
       "browser_download_url": "https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-aarch64-unknown-linux-musl.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3934731,
       "digest": "sha256:5467ee9cfeaa124f9bd91f8fbf0b1e9daf5cd0f25c17fdd201fe6e9855dc9d34",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-10-11T03:31:28Z",
       "updated_at": "2026-10-11T03:31:28Z",
       "browser_download_url": "https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-x86_64-apple-darwin.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3709507,
       "digest": "sha256:a721360286ddbe045bbe4efdf73f40a1d1f25d35bad26bf2cc49080d53a9f505",
-      "download_count": 125,
+      "download_count": 128,
       "created_at": "2026-10-11T03:31:31Z",
       "updated_at": "2026-10-11T03:31:32Z",
       "browser_download_url": "https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-x86_64-pc-windows-msvc.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 4150633,
       "digest": "sha256:9cee6b97cfc1c7afd663244fb6a06c32a5fe14f999f7cc88407ae2dc7fbd2464",
-      "download_count": 596,
+      "download_count": 659,
       "created_at": "2026-10-11T03:31:35Z",
       "updated_at": "2026-10-11T03:31:35Z",
       "browser_download_url": "https://github.com/thomasschafer/scooter/releases/download/v0.10.0/scooter-v0.10.0-x86_64-unknown-linux-musl.tar.gz"
