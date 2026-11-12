@@ -11,6 +11,13 @@
     - matthias@ahouansou.cz
   licenses:
     - MIT
+- repo: homebrew
+  srcname: scooter
+  visiblename: scooter
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Interactive find and replace in the terminal
 - repo: alpine_3_23
   subrepo: community
   srcname: scooter
@@ -151,13 +158,6 @@
   version: 0.10.0
   origversion: null
   status: newest
-  summary: Interactive find and replace in the terminal
-- repo: homebrew
-  srcname: scooter
-  visiblename: scooter
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Interactive find and replace in the terminal
 - repo: liguros_develop
   srcname: app-misc/scooter
