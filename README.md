@@ -47,12 +47,12 @@ Total: **31,680** lines of code across **50** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 4 | 2 | 1 | 0 | 4 |
-| last60d | 2026-09-16 | 1 | 11 | 2 | 1 | 0 | 13 |
-| 90d | 2026-08-17 | 1 | 15 | 2 | 2 | 0 | 15 |
-| last180d | 2026-05-19 | 1 | 40 | 2 | 5 | 0 | 44 |
-| 360d | 2025-11-20 | 5 | 128 | 3 | 22 | 7 | 204 |
-| last720d | 2024-11-25 | 21 | 332 | 3 | 44 | 10 | 1174 |
+| 30d | 2026-10-17 | 0 | 2 | 2 | 1 | 0 | 1 |
+| last60d | 2026-09-17 | 1 | 11 | 2 | 1 | 0 | 10 |
+| 90d | 2026-08-18 | 1 | 15 | 2 | 2 | 0 | 15 |
+| last180d | 2026-05-20 | 1 | 40 | 2 | 5 | 0 | 43 |
+| 360d | 2025-11-21 | 5 | 128 | 3 | 22 | 7 | 190 |
+| last720d | 2024-11-26 | 21 | 332 | 3 | 44 | 10 | 1170 |
 
 ## Release assets
 
@@ -80,9 +80,9 @@ Reported by **23** distros on [repology.org](https://repology.org/project/scoote
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.10.0` | ✅ latest |
 | Nix unstable | `0.10.0` | ✅ latest |
-| Alpine edge | `0.9.0` | ⚠️ outdated |
+| Alpine edge | `0.9.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -93,4 +93,4 @@ Install metadata for scooter lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:01:43Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:20:25Z._
