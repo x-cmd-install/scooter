@@ -47,12 +47,12 @@ Total: **31,680** lines of code across **50** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 1 | 3 | 1 | 0 | 1 |
-| last60d | 2026-09-20 | 1 | 10 | 3 | 1 | 0 | 10 |
-| 90d | 2026-08-21 | 1 | 15 | 3 | 2 | 0 | 15 |
-| last180d | 2026-05-23 | 1 | 40 | 3 | 5 | 0 | 43 |
-| 360d | 2025-11-24 | 5 | 123 | 4 | 22 | 7 | 190 |
-| last720d | 2024-11-29 | 21 | 332 | 4 | 42 | 10 | 1170 |
+| 30d | 2026-10-21 | 0 | 1 | 3 | 1 | 0 | 1 |
+| last60d | 2026-09-21 | 1 | 10 | 3 | 1 | 0 | 10 |
+| 90d | 2026-08-22 | 1 | 15 | 3 | 2 | 0 | 15 |
+| last180d | 2026-05-24 | 1 | 40 | 3 | 5 | 0 | 43 |
+| 360d | 2025-11-25 | 4 | 123 | 4 | 22 | 7 | 190 |
+| last720d | 2024-11-30 | 21 | 327 | 4 | 42 | 10 | 1170 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for scooter lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:38:11Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:35:31Z._
