@@ -37,7 +37,7 @@ Total: **31,680** lines of code across **50** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,305 · **Forks**: 19 · **Open issues**: 75 · **Contributors**: 10
+- **Stars**: 1,306 · **Forks**: 19 · **Open issues**: 75 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **31,680** lines of code across **50** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 2 | 1 | 1 | 0 | 2 |
-| last60d | 2026-09-28 | 1 | 9 | 2 | 1 | 0 | 9 |
-| 90d | 2026-08-29 | 1 | 15 | 2 | 1 | 0 | 16 |
-| last180d | 2026-05-31 | 1 | 38 | 2 | 5 | 0 | 42 |
-| 360d | 2025-12-02 | 4 | 122 | 3 | 22 | 7 | 187 |
-| last720d | 2024-12-07 | 19 | 324 | 3 | 42 | 10 | 1126 |
+| 30d | 2026-10-29 | 0 | 2 | 1 | 1 | 0 | 2 |
+| last60d | 2026-09-29 | 1 | 9 | 2 | 1 | 0 | 9 |
+| 90d | 2026-08-30 | 1 | 15 | 2 | 1 | 0 | 16 |
+| last180d | 2026-06-01 | 1 | 38 | 2 | 4 | 0 | 42 |
+| 360d | 2025-12-03 | 4 | 122 | 3 | 22 | 7 | 187 |
+| last720d | 2024-12-08 | 19 | 324 | 3 | 42 | 10 | 1126 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for scooter lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:37:04Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:14:46Z._
